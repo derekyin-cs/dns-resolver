@@ -1,0 +1,34 @@
+input: www.cnn.com
+output: 
+QUESTION SECTION: 
+www.cnn.com.   IN A
+
+ANSWER SECTION:
+turner-tls.map.fastly.net. 30 IN A 151.101.209.67
+
+Query time: 10 msec
+WHEN: Monday February 21 18:17:00 EST 2022
+
+input: google.co.jp
+output:
+QUESTION SECTION: 
+google.co.jp.   IN A
+
+ANSWER SECTION:
+google.co.jp. 300 IN A 142.250.65.227
+
+Query time: 30 msec
+WHEN: Monday February 21 18:17:28 EST 2022
+
+input: www.cs.stonybrook.edu
+output:
+QUESTION SECTION: 
+www.cs.stonybrook.edu.   IN A
+
+ANSWER SECTION:
+fe2.edge.pantheon.io. 300 IN A 23.185.0.2
+
+Query time: 14 msec
+WHEN: Monday February 21 18:17:57 EST 2022
+
+
